@@ -1,0 +1,54 @@
+08-07-2018 00:31:45.827 [main] INFO  h.m.t.reactive.ReactiveApplication.logStarting - Starting ReactiveApplication on DESKTOP-R7K88UT with PID 11688 (C:\Users\mfeli\Desktop\reactive\target\classes started by mfeli in C:\Users\mfeli\Desktop\reactive)
+08-07-2018 00:31:45.830 [main] INFO  h.m.t.reactive.ReactiveApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-07-2018 00:31:45.871 [main] INFO  o.s.b.w.r.c.AnnotationConfigReactiveWebServerApplicationContext.prepareRefresh - Refreshing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@b62fe6d: startup date [Sun Jul 08 00:31:45 CEST 2018]; root of context hierarchy
+08-07-2018 00:31:46.717 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 00:31:46.718 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 00:31:46.788 [main] INFO  o.s.w.r.r.m.a.ControllerMethodResolver.initControllerAdviceCaches - Looking for @ControllerAdvice: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@b62fe6d: startup date [Sun Jul 08 00:31:45 CEST 2018]; root of context hierarchy
+08-07-2018 00:31:47.183 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter.afterSingletonsInstantiated - Registering beans for JMX exposure on startup
+08-07-2018 00:31:47.439 [reactor-http-nio-1] INFO  r.ipc.netty.tcp.BlockingNettyContext.info - Started HttpServer on /0:0:0:0:0:0:0:0:8080
+08-07-2018 00:31:47.441 [main] INFO  o.s.b.w.e.netty.NettyWebServer.start - Netty started on port(s): 8080
+08-07-2018 00:31:47.450 [main] INFO  h.m.t.reactive.ReactiveApplication.logStarted - Started ReactiveApplication in 1.933 seconds (JVM running for 2.332)
+08-07-2018 00:31:47.454 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test
+08-07-2018 00:32:41.980 [main] INFO  h.m.t.reactive.ReactiveApplication.logStarting - Starting ReactiveApplication on DESKTOP-R7K88UT with PID 12132 (C:\Users\mfeli\Desktop\reactive\target\classes started by mfeli in C:\Users\mfeli\Desktop\reactive)
+08-07-2018 00:32:41.984 [main] INFO  h.m.t.reactive.ReactiveApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-07-2018 00:32:42.027 [main] INFO  o.s.b.w.r.c.AnnotationConfigReactiveWebServerApplicationContext.prepareRefresh - Refreshing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@78047b92: startup date [Sun Jul 08 00:32:42 CEST 2018]; root of context hierarchy
+08-07-2018 00:32:42.798 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 00:32:42.799 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 00:32:42.868 [main] INFO  o.s.w.r.r.m.a.ControllerMethodResolver.initControllerAdviceCaches - Looking for @ControllerAdvice: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@78047b92: startup date [Sun Jul 08 00:32:42 CEST 2018]; root of context hierarchy
+08-07-2018 00:32:43.248 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter.afterSingletonsInstantiated - Registering beans for JMX exposure on startup
+08-07-2018 00:32:43.511 [reactor-http-nio-1] INFO  r.ipc.netty.tcp.BlockingNettyContext.info - Started HttpServer on /0:0:0:0:0:0:0:0:8080
+08-07-2018 00:32:43.512 [main] INFO  o.s.b.w.e.netty.NettyWebServer.start - Netty started on port(s): 8080
+08-07-2018 00:32:43.516 [main] INFO  h.m.t.reactive.ReactiveApplication.logStarted - Started ReactiveApplication in 1.845 seconds (JVM running for 2.288)
+08-07-2018 00:32:43.517 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test
+08-07-2018 00:32:43.518 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test 0
+08-07-2018 00:32:43.518 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test 1
+08-07-2018 00:32:43.518 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test 2
+08-07-2018 00:32:43.519 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test 3
+08-07-2018 00:32:43.519 [main] INFO  h.m.t.reactive.ReactiveApplication.test - Test 4
+08-07-2018 10:50:26.505 [main] INFO  h.m.t.template.TemplateApplication.logStarting - Starting TemplateApplication on DESKTOP-R7K88UT with PID 18936 (C:\Users\mfeli\Desktop\Template\target\classes started by mfeli in C:\Users\mfeli\Desktop\Template)
+08-07-2018 10:50:26.510 [main] INFO  h.m.t.template.TemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-07-2018 10:50:26.552 [main] INFO  o.s.b.w.r.c.AnnotationConfigReactiveWebServerApplicationContext.prepareRefresh - Refreshing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@7ff95560: startup date [Sun Jul 08 10:50:26 CEST 2018]; root of context hierarchy
+08-07-2018 10:50:27.317 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 10:50:27.318 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 10:50:27.388 [main] INFO  o.s.w.r.r.m.a.ControllerMethodResolver.initControllerAdviceCaches - Looking for @ControllerAdvice: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@7ff95560: startup date [Sun Jul 08 10:50:26 CEST 2018]; root of context hierarchy
+08-07-2018 10:50:27.842 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter.afterSingletonsInstantiated - Registering beans for JMX exposure on startup
+08-07-2018 10:50:28.059 [reactor-http-nio-1] INFO  r.ipc.netty.tcp.BlockingNettyContext.info - Started HttpServer on /0:0:0:0:0:0:0:0:8080
+08-07-2018 10:50:28.061 [main] INFO  o.s.b.w.e.netty.NettyWebServer.start - Netty started on port(s): 8080
+08-07-2018 10:50:28.066 [main] INFO  h.m.t.template.TemplateApplication.logStarted - Started TemplateApplication in 1.872 seconds (JVM running for 2.305)
+08-07-2018 10:50:28.069 [main] INFO  h.m.t.template.TemplateApplication.test - Test
+08-07-2018 10:50:47.240 [main] INFO  h.m.t.template.TemplateApplication.logStarting - Starting TemplateApplication on DESKTOP-R7K88UT with PID 9476 (C:\Users\mfeli\Desktop\Template\target\classes started by mfeli in C:\Users\mfeli\Desktop\Template)
+08-07-2018 10:50:47.243 [main] INFO  h.m.t.template.TemplateApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+08-07-2018 10:50:47.278 [main] INFO  o.s.b.w.r.c.AnnotationConfigReactiveWebServerApplicationContext.prepareRefresh - Refreshing org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@1a0dcaa: startup date [Sun Jul 08 10:50:47 CEST 2018]; root of context hierarchy
+08-07-2018 10:50:48.046 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 10:50:48.047 [main] INFO  o.s.w.r.h.SimpleUrlHandlerMapping.registerHandler - Mapped URL path [/**] onto handler of type [class org.springframework.web.reactive.resource.ResourceWebHandler]
+08-07-2018 10:50:48.118 [main] INFO  o.s.w.r.r.m.a.ControllerMethodResolver.initControllerAdviceCaches - Looking for @ControllerAdvice: org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext@1a0dcaa: startup date [Sun Jul 08 10:50:47 CEST 2018]; root of context hierarchy
+08-07-2018 10:50:48.512 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter.afterSingletonsInstantiated - Registering beans for JMX exposure on startup
+08-07-2018 10:50:48.722 [reactor-http-nio-1] INFO  r.ipc.netty.tcp.BlockingNettyContext.info - Started HttpServer on /0:0:0:0:0:0:0:0:8080
+08-07-2018 10:50:48.723 [main] INFO  o.s.b.w.e.netty.NettyWebServer.start - Netty started on port(s): 8080
+08-07-2018 10:50:48.728 [main] INFO  h.m.t.template.TemplateApplication.logStarted - Started TemplateApplication in 1.879 seconds (JVM running for 2.338)
+08-07-2018 10:50:48.729 [main] INFO  h.m.t.template.TemplateApplication.test - Test
+08-07-2018 10:50:48.730 [main] INFO  h.m.t.template.TemplateApplication.lambda$test$0 - Test 0
+08-07-2018 10:50:48.731 [main] INFO  h.m.t.template.TemplateApplication.lambda$test$0 - Test 1
+08-07-2018 10:50:48.731 [main] INFO  h.m.t.template.TemplateApplication.lambda$test$0 - Test 2
+08-07-2018 10:50:48.731 [main] INFO  h.m.t.template.TemplateApplication.lambda$test$0 - Test 3
+08-07-2018 10:50:48.732 [main] INFO  h.m.t.template.TemplateApplication.lambda$test$0 - Test 4
